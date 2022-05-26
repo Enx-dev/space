@@ -17,6 +17,6 @@ export const Background = styled.main`
   }
   @media (min-width: 1024px) {
     padding-block-start: 10rem;
-    overflow: auto;
+    overflow: hidden;
   }
 `;
